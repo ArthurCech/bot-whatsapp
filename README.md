@@ -21,3 +21,4 @@ Este bot de whats app foi desenvolvido para ajudar um colega que precisava dispa
 ## Avisos
 
 - É importante que você deixe o terminal aberto com o programa rodando, caso contrário, o programa não vai "escutar" as respostas dos contatos. Portanto, é necessário que você estipule um prazo e avise os contatos qual o tempo máximo que ela tem para responder.
+- A mensagem pode ser uma pergunta, como por exemplo: "Estamos abrindo uma nova filial de nosso cinema em sua cidade. Você gostaria que vendessemos pipoca doce? Responda 1 para sim e 0 para não.".
